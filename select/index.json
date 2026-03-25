@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夢色のスプーン",
+  "base_artist": "飯島真理",
+  "createdAt": "2026-03-25T19:11:00.426597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢色のスプーン",
+      "artist": "Mari Iijima",
+      "has_synced": false,
+      "path": "select/01_夢色のスプーン_Mari_Iijima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢色のスプーン",
+      "artist": "飯島真理",
+      "has_synced": false,
+      "path": "select/02_夢色のスプーン_飯島真理.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢色のスプーン",
+      "artist": "飯島 真理",
+      "has_synced": false,
+      "path": "select/pl_01_夢色のスプーン_飯島_真理.txt"
+    }
+  ]
+}
